@@ -28,7 +28,6 @@ Pygame primitives.
 
 ```bash
 pip install pygame
-...
 
 ## Running
 python main.py
@@ -69,7 +68,7 @@ Level up and choose one of three random upgrades.
 THE GREAT KUPER has two phases.
 At 50% HP he enters:
 
-## KUPERFURY
+KUPERFURY
 and becomes significantly more aggressive.
 
 ## Project Structure
